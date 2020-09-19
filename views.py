@@ -46,7 +46,7 @@ def callback(request):
 
         ids = []
         stores_info = []
-        choices = ['§§¶°', '¶Ë¶°', '¶≠¿\', '§§¿\', '±ﬂ¿\', '§U§»Ø˘']
+        choices = ['‰∏≠Âºè', 'Ë•øÂºè', 'È£Ø', 'È∫µ', 'Â∞èÂêÉ', 'Ê∏ØÂºè']
         gmaps = googlemaps.Client(key='AIzaSyD3bgEOAkulGGTWeUMQTafiFCLtPFJq1uU')    
 
 
